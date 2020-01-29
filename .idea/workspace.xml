@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fbb39e9-8f8d-4c26-90fe-e379caad35f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Array hw" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WywRiVvouEKlv6U0DKFVuROqsB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.CountWords">
+    <configuration name="ArmstrongExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArmstrongExample" />
+      <module name="Array hw" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySum" />
+      <module name="Array hw" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountWords" />
+      <module name="Array hw" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Countainstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Countainstring" />
+      <module name="Array hw" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
+      <module name="Array hw" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountWords" />
+        <item itemvalue="Application.ArmstrongExample" />
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.Countainstring" />
+        <item itemvalue="Application.ArraySum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fbb39e9-8f8d-4c26-90fe-e379caad35f1" name="Default Changelist" comment="" />
+      <created>1580135136058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580135136058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1286" height="166" key="GridCell.Tab.0.bottom" timestamp="1580302682487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580302682487" />
+    <state width="1286" height="166" key="GridCell.Tab.0.center" timestamp="1580302682486">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580302682486" />
+    <state width="1286" height="166" key="GridCell.Tab.0.left" timestamp="1580302682486">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580302682486" />
+    <state width="1286" height="166" key="GridCell.Tab.0.right" timestamp="1580302682487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580302682487" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580140200333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580140200333" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1580140200333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580140200333" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1580140200333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580140200333" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1580140200333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580140200333" />
+  </component>
+</project>
